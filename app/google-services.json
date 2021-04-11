@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "112332141026",
+    "project_id": "notification-89959",
+    "storage_bucket": "notification-89959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112332141026:android:e0e195d1de67c0869dc9bb",
+        "android_client_info": {
+          "package_name": "com.example.dhoni.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112332141026-d4dec3lna1mfojupe3lhng2mt6uh5d33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9RMk4f46bNz2cIyBtqjEdv3-X7FVFlBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112332141026-d4dec3lna1mfojupe3lhng2mt6uh5d33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112332141026:android:f285573f71b88f9f9dc9bb",
+        "android_client_info": {
+          "package_name": "com.example.dhoni.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112332141026-d4dec3lna1mfojupe3lhng2mt6uh5d33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9RMk4f46bNz2cIyBtqjEdv3-X7FVFlBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112332141026-d4dec3lna1mfojupe3lhng2mt6uh5d33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
